@@ -1,0 +1,9 @@
+/target/
+/.classpath
+/.project
+/*.iml
+*.idea
+compiler.xml
+.settings
+/build/
+/dist/
